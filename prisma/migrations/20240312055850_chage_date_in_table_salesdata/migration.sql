@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `salesdatas` MODIFY `date` DATE NOT NULL DEFAULT CURRENT_TIMESTAMP(3);
